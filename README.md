@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I fill it up later
+I copied it to use it later
+
+emogies copy from here:  https://github.com/markdown-templates/markdown-emojis/blob/master/README.md
